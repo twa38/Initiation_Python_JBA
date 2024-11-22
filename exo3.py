@@ -17,8 +17,7 @@ def main():
 
     if age >= 18:
         print("Vous êtes majeur")
-    else:
-        print("Vous êtes mineur")
+
 
 if __name__ == '__main__':
     main()
